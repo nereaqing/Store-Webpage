@@ -1,6 +1,6 @@
 # Tienda de Camisetas - FrontEnd Store
 
-Proyecto frontend de una tienda de camisetas. Incluye catálogo de camisetas, descripción sobre la tienda, página con descripción de las características del producto, carrito (simulado) y diseño responsive.
+Proyecto frontend de una tienda de camisetas. Incluye catálogo de camisetas, descripción sobre la tienda, página con descripción de las características del producto, carrito (simulado) y diseño responsive. Permite visualizar productos, ver precios y seleccionar opciones (talla y cantidad).  
 
 **Demo:** https://nqingstore.netlify.app/
 
@@ -20,8 +20,9 @@ Proyecto frontend de una tienda de camisetas. Incluye catálogo de camisetas, de
 
 ## Características
 
-- Catálogo de productos
-- Página de detalle
-- Formulario de compra
-- Animaciones y transiciones
-- Totalmente responsive
+- Grid responsive para mostrar catálogo productos.  
+- Página individual para cada producto con formulario de compra (selección de talla y cantidad).  
+- Hover en productos para efecto de zoom (transition).  
+- Sección “Nosotros” con layout responsive.  
+- Bloques de ventajas de compra con iconos.  
+- Diseño completamente responsive para móvil, tablet y desktop.
