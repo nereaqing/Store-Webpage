@@ -6,11 +6,21 @@ Proyecto frontend de una tienda de camisetas. Incluye catálogo de camisetas, de
 
 ## Vista previa
 
+### Página principal
+
 ![index.html](imgs_readme/image_index.png)
+
+### Página de información de la tienda
 
 ![nosotros.html](imgs_readme/image_nosotros.png)
 
+### Página de producto individual
+
 ![producto.html](imgs_readme/image_producto.png)
+
+### Página principal en móvil
+
+![index.html en movil](image.png)
 
 ## Tecnologías
 
@@ -20,9 +30,9 @@ Proyecto frontend de una tienda de camisetas. Incluye catálogo de camisetas, de
 
 ## Características
 
-- Grid responsive para mostrar catálogo productos.
+- Catálogo productos.
 - Página individual para cada producto con formulario de compra (selección de talla y cantidad).
 - Hover en productos para efecto de zoom (transition).
-- Sección “Nosotros” con layout responsive.
+- Sección “Nosotros”.
 - Bloques de ventajas de compra con iconos.
-- Diseño completamente responsive para móvil, tablet y desktop.
+- Diseño responsive para móvil, tablet y desktop.
